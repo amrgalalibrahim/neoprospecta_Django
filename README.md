@@ -15,3 +15,6 @@ You can then open a browser and navigate to that address to see if your project 
 Once you run this script, you can log in to the admin interface using the specified username and password.
 user: neoprospecta
 password: neopct1234
+
+
+Steps model in file Django_steps.txt
