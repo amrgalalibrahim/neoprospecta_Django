@@ -12,5 +12,6 @@ You can do this by navigating to the root directory of your project (where manag
 "python manage.py runserver".
 This will start the server and it will be accessible at "http://127.0.0.1:8000/". 
 You can then open a browser and navigate to that address to see if your project is running correctly.
-admin permissions: neoprospecta
+Once you run this script, you can log in to the admin interface using the specified username and password.
+user: neoprospecta
 password: neopct1234
